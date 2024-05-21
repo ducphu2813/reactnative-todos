@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "title": "Finish project",
+      "note": "Complete all the tasks for the project",
+      "date": "2022-12-31"
+    },
+    {
+      "id": 2,
+      "title": "Buy groceries",
+      "note": "Get milk, eggs, and bread",
+      "date": "2022-12-25"
+    },
+    {
+      "id": 3,
+      "title": "Exercise",
+      "note": "Go for a run in the park",
+      "date": "2022-12-26"
+    },
+    {
+      "id": 4,
+      "title": "New task",
+      "note": "Description of the new task",
+      "date": "2022-12-27"
+    },
+    {
+      "id": 5,
+      "title": "Meeting with client",
+      "note": "Discuss project details and next steps",
+      "date": "2023-01-03"
+    },
+    {
+      "id": 6,
+      "title": "Pay bills",
+      "note": "Electricity, internet, and water",
+      "date": "2023-01-10"
+    },
+    {
+      "id": 7,
+      "title": "Read a book",
+      "note": "Start reading 'The Hitchhiker's Guide to the Galaxy'",
+      "date": "2023-01-12"
+    },
+    {
+      "id": 8,
+      "title": "Laundry",
+      "note": "Wash clothes and fold them",
+      "date": "2023-01-15"
+    },
+    {
+      "id": 9,
+      "title": "Movie night",
+      "note": "Watch a movie with friends",
+      "date": "2023-01-20"
+    },
+    {
+      "id": 10,
+      "title": "Learn a new skill",
+      "note": "Start learning basic coding",
+      "date": "2023-01-23"
+    },
+    {
+      "id": 11,
+      "title": "Visit family",
+      "note": "Spend time with loved ones",
+      "date": "2023-01-27"
+    },
+    {
+      "id": 12,
+      "title": "Organize workspace",
+      "note": "Declutter desk and computer files",
+      "date": "2023-01-31"
+    },
+    {
+      "id": 13,
+      "title": "Plan a trip",
+      "note": "Research and book a vacation",
+      "date": "2023-02-03"
+    },
+    {
+      "id": 14,
+      "title": "Volunteer",
+      "note": "Help out at a local charity",
+      "date": "2023-02-10"
+    },
+    {
+      "id": 15,
+      "title": "Cook a healthy meal",
+      "note": "Make a nutritious and delicious dinner",
+      "date": "2023-02-14"
+    },
+    {
+      "id": 16,
+      "title": "Take a break",
+      "note": "Relax and recharge for better productivity",
+      "date": "2023-02-17"
+    },
+    {
+      "id": 17,
+      "title": "Learn a new language",
+      "note": "Start practicing basic phrases in French",
+      "date": "2023-02-20"
+    },
+    {
+      "id": 18,
+      "title": "Go for a walk",
+      "note": "Enjoy some fresh air and exercise",
+      "date": "2023-02-24"
+    },
+    {
+      "id": 19,
+      "title": "Clean the house",
+      "note": "Dust, vacuum, and mop the floors",
+      "date": "2023-02-28"
+    },
+    {
+      "id": 20,
+      "title": "Practice mindfulness",
+      "note": "Meditate and focus on the present moment",
+      "date": "2023-03-03"
+    },
+    {
+        "id": 21,
+        "title": "Update resume and portfolio",
+        "note": "Prepare for upcoming job applications",
+        "date": "2023-03-03"
+      },
+      {
+        "id": 22,
+        "title": "Practice a hobby",
+        "note": "Spend some time playing an instrument or painting",
+        "date": "2023-03-10"
+      },
+      {
+        "id": 23,
+        "title": "Meditate",
+        "note": "Focus on mindfulness and stress reduction",
+        "date": "2023-03-14"
+      },
+      {
+        "id": 24,
+        "title": "Take a bath",
+        "note": "Relax and unwind after a long day",
+        "date": "2023-03-17"
+      }
+]
